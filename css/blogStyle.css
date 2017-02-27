@@ -58,6 +58,7 @@ h6 {
 	padding-left: 10px;
 	float: left;
     clear: both;
+    padding-right: 0px;
 }
 
 .p2 {
@@ -71,6 +72,7 @@ h6 {
 .name {
 	font-size: 25px;
 	padding-right: 20px;
+	margin: auto;
 }
 
 .bold {
@@ -79,4 +81,19 @@ h6 {
 
 .pC {
 	text-decoration: underline;
+}
+
+.back {
+	padding-left: 900px;
+	clear: both;
+	float: right;
+	margin: auto;
+	padding-left: 0px;
+	padding-right: 10px;
+
+}
+
+a {
+	text-decoration: none;
+	color: black;
 }
