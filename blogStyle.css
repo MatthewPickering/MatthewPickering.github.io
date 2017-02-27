@@ -1,0 +1,82 @@
+h3 {
+	color: black;
+	font-family: source sans pro;
+	padding-left: 10px;
+	letter-spacing: 5px;
+	font-weight: normal;
+}
+
+h1 {
+	font-family: source sans pro;
+	padding-left: 20px;
+	font-weight: bold;
+	font-size: 40px;
+	color: #4e96da;
+}
+
+.blogBorder {
+	width: 1000px;
+	height: 421px;
+	border: 20px solid #212121;
+	margin: auto;
+}
+
+
+p {
+	margin-left: 20px;
+	margin-right: 20px;
+	font-weight: bold;
+	font-family: source sans pro;
+	overflow: auto;
+    display: block;
+    padding-left: 20px;
+}
+.p1 {
+	border-left: 5px solid #212121;
+	padding-left: 5px;
+	margin-left: 400px;
+	margin-top: 100px;
+}
+
+hr {
+	border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, 
+    rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    margin-left: 20px;
+	margin-right: 20px;
+}
+
+h6 {
+	text-align: center;
+	font-family: source sans pro;
+}
+
+.dom {
+	height: 290px;
+	width: 250px;
+	padding-left: 10px;
+	float: left;
+    clear: both;
+}
+
+.p2 {
+	font-weight: normal;
+}
+
+.info {
+	padding-left: 290px;
+}
+
+.name {
+	font-size: 25px;
+	padding-right: 20px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.pC {
+	text-decoration: underline;
+}
