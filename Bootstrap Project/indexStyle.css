@@ -1,0 +1,41 @@
+#adjust {
+	padding-top: 30px;
+	color: black;
+	text-align: center;
+}
+
+.jumbotron {
+	background-color: #222222 !important;
+	position:relative;
+	z-index: 2;
+	box-shadow: 0 8px 16px -6px black;
+}
+
+.jContent {
+	color: #9D9D9D;
+	background-color: #222222 !important;
+}
+
+body {
+	background-color: #efefef !important;
+}
+
+h3 {
+	font-size: 30px !important; 
+}
+
+.strong1 {
+	color: #fcfcfc;
+}
+
+h4 {
+	font-size: 25px !important;
+}
+
+.affordText {
+	font-size: 14px !important;
+}
+
+.heading {
+	color: white !important;
+}
